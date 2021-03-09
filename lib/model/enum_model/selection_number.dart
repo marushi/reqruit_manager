@@ -1,0 +1,15 @@
+enum SelectionNumber {
+  preEntry,
+  entry,
+  webTest,
+  entrySheet,
+  first,
+  second,
+  third,
+  fourth,
+  fifth,
+  six,
+  last,
+  unofficialOffer,
+  complete,
+}
